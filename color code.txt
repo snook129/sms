@@ -1,0 +1,5 @@
+#D19C12 yellow
+#37c386 Green
+Background #3a3c3e
+replacer #6E6449
+hover_#2c9b6b

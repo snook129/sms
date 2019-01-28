@@ -1,0 +1,7 @@
+SSL/TLS Certificates
+Information: The Lets Encrypt auditconsult.mw certificate was successfully set to secure the mail server.
+
+If you created a certificate signing request on this server and received the certificate file, upload it here. If you want to upload a certificate and private key pair generated on a different server, or generate a self-signed certificate, click Add SSL/TLS Certificate.
+
+After adding an SSL/TLS certificate to a domain, you need to enable SSL/TLS support and select that certificate in the website hosting settings: Websites & Domains > Hosting Settings of this domain > Security.
+Upload the certificate here
